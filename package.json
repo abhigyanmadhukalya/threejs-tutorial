@@ -1,6 +1,7 @@
 {
   "name": "ghibli-style-shaders",
   "version": "0.1.0",
+  "author": "Abhigyan Madhukalya",
   "private": false,
   "dependencies": {
     "@react-three/drei": "^9.56.25",

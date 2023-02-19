@@ -11,6 +11,12 @@ This repository is for the tutorial I followed on YouTube by Takuya Matsuyama ([
 - [React-Three-Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) - A React renderer for ThreeJS
 - [@react-three/drei](https://www.npmjs.com/package/@react-three/drei) - A collection of helpers for [React-Three-Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 
+# Start local server for project
+
+```shell
+npm start
+```
+
 ## Directory Structure
 
 ```
