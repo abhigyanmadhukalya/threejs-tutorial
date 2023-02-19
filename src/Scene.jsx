@@ -1,5 +1,5 @@
 import { useFrame } from "@react-three/fiber";
-import { useState, useRef } from "react";
+import { useRef } from "react";
 import { Trees } from "./Trees";
 
 export const Scene = () => {
